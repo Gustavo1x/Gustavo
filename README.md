@@ -2,6 +2,8 @@
 
 - 👾 Hoje trabalho com Front-End
 - 🕶 estudando JavaScript
+- 📲 51-984052470
+- 📩 brandaogustavo011@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gustavo1x">
